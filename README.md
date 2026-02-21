@@ -1,18 +1,35 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+#  Magic 8 Ball – iOS App
 
-# Magic 8 Ball
+Magic 8 Ball is a simple iOS application built with Swift and UIKit that simulates the classic Magic 8 Ball toy.  
+The user taps the "Ask" button, and the app randomly displays one of five possible answers using images.
 
-## Our Goal
+This project demonstrates fundamental iOS development concepts including UI interaction, image handling, and randomization logic.
 
-The objective of this challenge is to apply the skills you learned in the Dicee tutorial and get you making an app with functionality all by yourself. There’s no new concepts here. But you’re flyin’ solo this time! Most of the programming skills are gained in the challenges rather than the tutorials. It’s when you’re using your new-found programming skills to bend the app to your will that you’re truly levelling up as a developer.
+---
 
-## What you will create
+## Features
 
-We’re going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
+- Tap the "Ask" button to get a random answer
+- Displays one of five pre-defined Magic 8 Ball images
+- Clean and simple UI
+- Lightweight and responsive
+- Demonstrates basic randomization and UIImageView updates
+
+---
+
+## Tech Stack
+
+- Language: Swift
+- Framework: UIKit
+- Architecture: MVC
+- IDE: Xcode
+- iOS Target: iOS 13+
+
+---
 
 
+## Author
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+Sandro Lomtadze
+Junior iOS Developer
 
