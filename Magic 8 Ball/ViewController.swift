@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Magic 8 Ball
 //
-//  Created by Angela Yu on 14/06/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Based on App Brewery course project
+//  Modified and developed by Sandro Lomtadze
 //
 
 import UIKit
